@@ -3,9 +3,6 @@
 
 #include <string>
 #include <vector>
-
-// 3.) see how Student.h is #included in this file... 
-// [go back to main.cpp]
 #include "Student.h" 
 
 
